@@ -1,5 +1,6 @@
 # python automatically understand type of data  we dont need to specify it like other language
 # int 
+
 a=10
 print(a)
 # floor
