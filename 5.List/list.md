@@ -1,0 +1,6 @@
+- list dataStructure in python allow us to store group of elements without worrying about type of each data you store
+- multiple type of data can store
+- data structue means a way of storing data
+- you can perform multiple operation on list 
+- mutable can change  items element in list even after creating it
+- list is  ordered 

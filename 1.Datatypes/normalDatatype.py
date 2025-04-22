@@ -8,13 +8,10 @@
 # int
 a=10
 print(a)
+
 # floor
 b=2.43
 print(type(b))
-# complex
-c= 3+4j
-print(type(c))
-
 
 
 # string
@@ -26,11 +23,13 @@ print(type(a))
 # boolean
 e = True
 print(e)
-
 print(a>8)
-# 
 
 
+
+# complex
+c= 3+4j
+print(type(c))
 
 
 
